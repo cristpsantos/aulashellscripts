@@ -11,4 +11,8 @@ echo "Hora do dia: $HORA"
 echo ""
 echo ""
 
+ls -1 /etc #Lista em ordem
+
 ls /etc | grep ^p #Lista os arquivos do /etc e filtra os que começam com a letra p
+
+cat /etc/passwd | grep -n login | sort | grep system
