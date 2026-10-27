@@ -1,0 +1,10 @@
+Cristiano 8.0
+Larissa 7.0
+Laura 10
+Lanna 10
+drwxr-xr-x  3 pontes pontes 4096 Oct 27 15:49 .
+drwxr-x--- 23 pontes pontes 4096 Oct 27 15:49 ..
+drwxr-xr-x  7 pontes pontes 4096 Oct 27 15:48 .git
+-rw-r--r--  1 pontes pontes 1464 Oct 27 15:47 exemplo.txt
+-rw-r--r--  1 pontes pontes   44 Oct 27 15:49 exemplo1.txt
+-rwxr-xr-x  1 pontes pontes  333 Oct 25 12:02 ola.sh
